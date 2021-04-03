@@ -5,4 +5,4 @@ const dateAfterXDays = (days) => {
   return `${date.getDate()}-${date.getMonth() + 1}-${date.getFullYear()}`;
 };
 
-module.exports = dateAfterXDay;
+module.exports = dateAfterXDays;
